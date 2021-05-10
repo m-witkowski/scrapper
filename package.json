@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-retry": "^3.1.9",
+    "bluebird": "^3.7.2",
+    "cheerio": "*",
+    "fs": "*",
+    "got": "^11.8.2",
+    "json2csv": "^5.0.6",
+    "path": "^0.12.7"
+  }
+}
